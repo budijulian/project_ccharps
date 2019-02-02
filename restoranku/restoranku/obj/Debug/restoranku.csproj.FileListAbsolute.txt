@@ -1,0 +1,11 @@
+F:\BelajarProgram\C#\restoranku\restoranku\bin\Debug\restoranku.exe.config
+F:\BelajarProgram\C#\restoranku\restoranku\bin\Debug\restoranku.exe
+F:\BelajarProgram\C#\restoranku\restoranku\bin\Debug\restoranku.pdb
+F:\BelajarProgram\C#\restoranku\restoranku\obj\Debug\restoranku.Form1.resources
+F:\BelajarProgram\C#\restoranku\restoranku\obj\Debug\restoranku.Properties.Resources.resources
+F:\BelajarProgram\C#\restoranku\restoranku\obj\Debug\restoranku.csproj.GenerateResource.Cache
+F:\BelajarProgram\C#\restoranku\restoranku\obj\Debug\restoranku.exe
+F:\BelajarProgram\C#\restoranku\restoranku\obj\Debug\restoranku.pdb
+F:\BelajarProgram\C#\restoranku\restoranku\obj\Debug\restoranku.csprojResolveAssemblyReference.cache
+F:\BelajarProgram\C#\restoranku\restoranku\bin\Debug\MySql.Data.DLL
+F:\BelajarProgram\C#\restoranku\restoranku\obj\Debug\restoranku.form2.resources
